@@ -7,3 +7,6 @@ Hej, witaj na moim repo
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svrgnx44jn-debug)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svrgnx44jn-debug&show_icons=true&theme=radical)
